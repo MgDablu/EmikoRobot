@@ -100,6 +100,14 @@ buttons = [
         InlineKeyboardButton(
             text="Try inline!​​", switch_inline_query_current_chat=""
         ),
+
+    [
+
+        InlineKeyboardButton(
+
+            text=" ✴ Bot Owner✴ ", url=f"t.me/Dabllu"),
+
+    ]
     ],
     [
         InlineKeyboardButton(
